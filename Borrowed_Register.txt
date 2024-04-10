@@ -1,0 +1,6 @@
+88 || 1 || Psychology Of Money || Shan || 20/01/2024 || Returned || 28 /02 /2024 || 320
+37 || 4 || The wings of fire || Shan || 20/02/2024 || Borrowed || N/A || 0 
+78 || 5 || The Secret || Shan || 20/02/2024 || Returned || 09 /04 /2024 || 420
+96 || 3 || The power of habit || Saurabh || 20/02/2024 || Returned || 29 /02 /2024 || 20
+49 || 3 || The power of habit || Saurabh || 23/01/2024 || Returned || 01 /03 /2024 || 310
+20 || 3 || The power of habit || Saurabh || 21/02/2024 || Returned || 01 /03 /2024 || 20
